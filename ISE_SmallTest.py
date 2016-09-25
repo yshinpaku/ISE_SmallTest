@@ -11,6 +11,7 @@ root.withdraw()
 fTyp=[('CSVファイル','.csv')]
 #複数のタイプを指定することも可能。
 
+#Windows用
 iDir='c:/'
 
 #askopenfilename 一つのファイルを選択する。 filrname:選択したファイルのパス
